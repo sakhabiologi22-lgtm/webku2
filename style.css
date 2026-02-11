@@ -1,5 +1,4 @@
 body{ 
-    background-color: #339966; 
     color:#333;
     width:100%;
     font-family:sans-serif;
@@ -13,4 +12,8 @@ body{
     background:#417aa8;
     color:#fff
 }
+.bg-index {
+    background-color: #339966; 
+}
+
 
